@@ -1,4 +1,4 @@
-# basic_bank_script
+# BASIC_BANK_SCRIPT
 This is a basic bank script.
 # :arrow_double_down: Installation :arrow_double_down:
 ```
